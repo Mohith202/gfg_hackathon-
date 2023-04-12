@@ -1,10 +1,10 @@
 # Farm Wise 🌿
 
-#### A compact website build on various factors adressing issues of farmers regarding there crops, this website has Three main parts. first one being a **_visualization_** playground. Where Trends according to the market can be seen, second being **_prediction_** where deping upon varioius factors of soil quality one can predict the type of crop he could grow. One cache if the person wanna grow another crop based on same nutrients he can know what changes are required. Last one being **_Classification_**, in this page user required to either click an image or upload an image of the leaf or plant which ever possible to know what disease one's field is having.
+#### A compact website build on various factors addressing issues of farmers regarding there crops, this website has Three main parts. first one being a **_visualization_** playground. Where Trends according to the market can be seen, second being **_prediction_** where depending upon various factors of soil quality, one can predict the type of crop he could grow. One cache if the person wanna grow another crop based on same nutrients, he can know what changes are required. Last one being **_Classification_**, in this page user required to either click an image or upload an image of the leaf or plant which ever possible to know what disease one's field is having.
 
 ## DISCLAIMER ⚠️
 
-#### This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data also, how emerging state of the art technology can be used for advanced develoopment in farming.
+#### This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data also, how emerging state of the art technology can be used for advanced development in farming.
 
 ## MOTIVATION 💪
 
@@ -69,7 +69,7 @@ You can use this project for further developing it and adding your work in it. I
 This was my first big project so there are lot of things to improve upon
 
 - CSS code is totally messed up :pensive: (some code in file and some inline)
-- This app is purely made in python, fullstack can be used creating api endpoints using django,flask or fastapi.
+- This app is purely made in python, fullstack can be used creating API endpoints using django,flask or fastapi.
 - More data can be collected manually via web scrapping to make the system more accurate :monocle_face:
 - Additional plant images can be collected to make the disease detection part more robust and generalized :face_with_head_bandage:
 - Modularized code can be written instead of writing in Jupyter Notebooks, and more scalability can be increased!
